@@ -69,6 +69,7 @@ PROJECT_DIR = os.path.join(KU_HOME, "GHHI", "SubgroupIdentify")
 MODEL_DIR = os.path.join(PROJECT_DIR, "models")
 SH_DIR = os.path.join(PROJECT_DIR, "sh")
 DATA_DIR = os.path.join(PROJECT_DIR, "data")
+SHAP_DIR = os.path.join(PROJECT_DIR, "shap")
 # =====================================================================================
 # ================================== function =========================================
 # =====================================================================================
